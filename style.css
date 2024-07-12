@@ -44,10 +44,12 @@ body {
 
 .play-board .food {
     background: red;
+    border-radius: 45%;
 }
 
 .play-board .head {
     background: rgb(0, 255, 94);
+    border-radius: 45%;
 }
 
 .controls {
